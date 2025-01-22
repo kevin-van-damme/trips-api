@@ -12,7 +12,7 @@ const options = {
     servers: isProduction
       ? [
           {
-            url: "https://trip-api-9ppg.onrender.com/api/v1",
+            url: "https://trips-api-uo2m.onrender.com/api/v1",
             description: "Production server",
           },
         ]
